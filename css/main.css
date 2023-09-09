@@ -1,0 +1,12 @@
+th, tr, td {
+    padding: 10px;
+}
+
+th {
+    background-color: rgb(53, 56, 56);
+    color: white;
+}
+
+td {
+    background-color: rgb(175, 175, 175);
+}
